@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "explosion_east_anim",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_3"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_3"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_2"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_1"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_2"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_3"
+                },
+                {
+                    "key": "explosion_east",
+                    "frame": "explosion_east_4"
+                }
+            ]
+        }
+    ]
+}

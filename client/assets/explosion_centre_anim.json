@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "explosion_centre_anim",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_4"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_3"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_2"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_1"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_2"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_3"
+                },
+                {
+                    "key": "explosion_centre",
+                    "frame": "explosion_centre_4"
+                }
+            ]
+        }
+    ]
+}

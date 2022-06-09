@@ -1,0 +1,47 @@
+{
+    "frames": [
+        {
+            "filename": "bomb_regular_1",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 12,
+                "y": 21
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bomb_regular_2",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 61,
+                "y": 22
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bomb_regular_3",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 110,
+                "y": 25
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+],
+    "meta": {
+        "description": "Manually created atlas, but the linked tool is still awesome.",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

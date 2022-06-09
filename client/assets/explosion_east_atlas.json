@@ -1,0 +1,60 @@
+{
+    "frames": [
+        {
+            "filename": "explosion_east_1",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 948,
+                "y": 216
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion_east_2",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 1314,
+                "y": 216
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion_east_3",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 1687,
+                "y": 216
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "explosion_east_4",
+            "frame": {
+                "w": 48,
+                "h": 47,
+                "x": 2034,
+                "y": 216
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+],
+    "meta": {
+        "description": "Manually created atlas, but the linked tool is still awesome.",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

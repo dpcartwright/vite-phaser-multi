@@ -1,0 +1,92 @@
+{
+    "anims": [
+        {
+            "key": "p3_walk_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "player_3",
+                    "frame": "p3_down_walk_1"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_down_walk_2"
+                }
+            ]
+        },
+        {
+            "key": "p3_walk_up",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "player_3",
+                    "frame": "p3_up_walk_1"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_up_walk_2"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_up_walk_3"
+                }
+            ]
+        },
+        {
+            "key": "p3_walk_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "player_3",
+                    "frame": "p3_left_walk_1"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_left_walk_2"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_left_walk_3"
+                }
+            ]
+        },
+        {
+            "key": "p3_walk_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 4,
+            "frames": [
+                {
+                    "key": "player_3",
+                    "frame": "p3_right_walk_1"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_right_walk_2"
+                },
+                {
+                    "key": "player_3",
+                    "frame": "p3_right_walk_3"
+                }
+            ]
+        },
+        {
+            "key": "p3_stand",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 1,
+            "frames": [
+                {
+                    "key": "player_3",
+                    "frame": "p3_down_face"
+                }
+            ]
+        }
+    ]
+}

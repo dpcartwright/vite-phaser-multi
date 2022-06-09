@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "explosion_west_anim",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_4"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_3"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_2"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_1"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_2"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_3"
+                },
+                {
+                    "key": "explosion_west",
+                    "frame": "explosion_west_4"
+                }
+            ]
+        }
+    ]
+}

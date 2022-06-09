@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "explosion_south_anim",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_4"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_3"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_2"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_1"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_2"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_3"
+                },
+                {
+                    "key": "explosion_south",
+                    "frame": "explosion_south_4"
+                }
+            ]
+        }
+    ]
+}

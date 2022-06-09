@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "bomb_regular_lit",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 3,
+            "frames": [
+                {
+                    "key": "bomb_regular",
+                    "frame": "bomb_regular_1"
+                },
+                {
+                    "key": "bomb_regular",
+                    "frame": "bomb_regular_2"
+                },
+                {
+                    "key": "bomb_regular",
+                    "frame": "bomb_regular_3"
+                },
+                {
+                    "key": "bomb_regular",
+                    "frame": "bomb_regular_2"
+                }
+            ]
+        }
+    ]
+}

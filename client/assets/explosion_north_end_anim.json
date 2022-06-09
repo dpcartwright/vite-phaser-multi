@@ -1,0 +1,40 @@
+{
+    "anims": [
+        {
+            "key": "explosion_north_end_anim",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_4"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_3"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_2"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_1"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_2"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_3"
+                },
+                {
+                    "key": "explosion_north_end",
+                    "frame": "explosion_north_end_4"
+                }
+            ]
+        }
+    ]
+}
